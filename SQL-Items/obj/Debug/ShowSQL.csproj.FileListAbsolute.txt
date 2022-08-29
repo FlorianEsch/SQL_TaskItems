@@ -1,0 +1,15 @@
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\bin\Debug\ShowSQL.exe.config
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\bin\Debug\ShowSQL.exe
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\bin\Debug\ShowSQL.pdb
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\MainWindow.g.cs
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\App.g.cs
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL_MarkupCompile.cache
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL_MarkupCompile.lref
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\MainWindow.baml
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.g.resources
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.Properties.Resources.resources
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.csproj.GenerateResource.cache
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.csproj.CoreCompileInputs.cache
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.exe
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.pdb
+C:\Users\Flo\source\repos\ShowSQL\ShowSQL\obj\Debug\ShowSQL.csprojAssemblyReference.cache
